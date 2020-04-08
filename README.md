@@ -1,2 +1,2 @@
 # self-check
-Self health assessment for COVID-19 symptops
+Self health assessment for COVID-19 symptoms
